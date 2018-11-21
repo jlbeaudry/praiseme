@@ -17,7 +17,7 @@ install.packages("praiseme")
 Example
 -------
 
-This is a basic example which shows you how to solve a common problem:
+This is a basic example which shows you how to solve a common problem, which I still don't understand
 
 ``` r
 ## basic example code
