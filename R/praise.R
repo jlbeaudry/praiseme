@@ -12,7 +12,7 @@ praise <- function (name = "Jennifer",
                     adjective = "Best",
                     punctuation = "!") {
 
-  glue("You're the {adjective}, {name}")
+  glue("You're the {adjective}, {name}, {punctuation}")
 
 }
 
