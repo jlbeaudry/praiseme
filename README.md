@@ -3,7 +3,7 @@
 praiseme
 ========
 
-The goal of praiseme is to ...
+The goal of praiseme is to figure out what the hell I'm doing...
 
 Installation
 ------------
